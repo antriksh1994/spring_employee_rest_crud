@@ -1,1 +1,1 @@
-# spring_employee_rest_crud
+# spring_rest_employee_entitymanager
